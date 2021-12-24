@@ -3,9 +3,9 @@
 
 iso_name="ddos"
 iso_label="ddos"
-iso_publisher="ddosX"
-iso_application="ddos Live/Rescue CD"
-iso_version="V0.2 alpha"
+# iso_publisher="Arch Linux <https://archlinux.org>"
+# iso_application="Arch Linux Live/Rescue CD"
+iso_version="gnome40_alpha_01"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
@@ -20,4 +20,11 @@ file_permissions=(
   ["/usr/local/bin/choose-mirror"]="0:0:755"
   ["/usr/local/bin/Installation_guide"]="0:0:755"
   ["/usr/local/bin/livecd-sound"]="0:0:755"
+  ["/etc/shadow"]="0:0:0400"
+  ["/etc/gshadow"]="0:0:0400"
+  ["/etc/ddos_conf/autostart.sh"]="0:0:777"
+  ["/etc/ddos_conf/gtk-theme.sh"]="0:0:777"
+  ["/etc/ddos_conf/icon_pack.sh"]="0:0:777"
+  ["/etc/ddos_conf/wallpaper.sh"]="0:0:777"
+  ["/etc/ddos_conf/window_keys.sh"]="0:0:777"
 )
