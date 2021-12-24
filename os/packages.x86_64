@@ -118,3 +118,28 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+networkmanager
+network-manager-applet
+
+xorg
+# xorg-drivers
+xf86-video-intel
+xf86-video-amdgpu
+xf86-video-vmware
+mesa
+# login manager
+gdm
+# gui
+gnome-extra
+nautilus
+gnome-software
+firefox
+gnome-terminal
+gnome-software
+gnome-control-center
+neofetch
+yay
+breeze-icons
+breeze-gtk
+gedit
+fluent-icon-theme-git
