@@ -3,9 +3,9 @@
 
 iso_name="ddos"
 iso_label="ddos"
-# iso_publisher="Arch Linux <https://archlinux.org>"
-# iso_application="Arch Linux Live/Rescue CD"
-iso_version="gnome40_alpha_01"
+iso_publisher="ddosX"
+iso_application="ddos Live/Rescue CD"
+iso_version="V0.3 alpha"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
