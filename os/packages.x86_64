@@ -117,6 +117,7 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+base-devel
 # network
 networkmanager
 network-manager-applet
