@@ -1,7 +1,7 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
 Comment=Запуск настройки ddos
-Exec=chmod +x /etc/ddos_conf/autostart.sh && sh /etc/ddos_conf/autostart.sh
+Exec=sh /etc/ddos_conf/autostart.sh
 GenericName=Запуск настройки ddos
 Icon=applications-system
 Name=ddos update
