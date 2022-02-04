@@ -17,7 +17,7 @@
 где $V - версия, beta/aplha/pre-release/stable/unstable - состояние версии (см Релизы), $arch - архитектура (обычно x86_64)
 Пример:
 ``
-ddos-V0.5 beta-x86_64.iso
+ddos-V0.6 beta-x86_64.iso
 ``
 ## Скриншоты
 ![login](https://user-images.githubusercontent.com/61107330/147656439-af642cd4-c505-4279-b5b5-6f101dea0d27.png)
