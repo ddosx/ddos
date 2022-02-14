@@ -51,9 +51,9 @@ V0.8 pre-release
 1. Если хотите что-то добавить своё, то форкайте.
 2. Потом добавляете и кидаете пул-реквест
 
-V0.9 pre-release
+V0.9 pre-release - оболочки на выбор (budgie, gnome, xfce, kubik³ и kde2 plasma)
 
-V1.0 stable
+V1.0 stable - полное изменение внешнего вида системы
 
 V1.1 unstable
 
@@ -74,3 +74,5 @@ V1.8 stable
 V1.9 unstable
 
 V2.0 stable
+
+V99.0 super unstable - добавится установщик
