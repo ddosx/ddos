@@ -10,13 +10,13 @@ install_dir="arch"
 buildmodes=('iso')
 
 # uefi and bios
-# bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
+bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
 
 # bios 
 # bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito')
 
 # uefi
-bootmodes=('uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
+# bootmodes=('uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
 
 arch="x86_64"
 pacman_conf="pacman.conf"
