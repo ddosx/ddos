@@ -1,18 +1,18 @@
 alsa-utils
 amd-ucode
 arch-install-scripts
-archinstall
+# archinstall
 b43-fwcutter
 base
 bind-tools
 brltty
-broadcom-wl
+# broadcom-wl
 btrfs-progs
 clonezilla
 cloud-init
 crda
 cryptsetup
-darkhttpd
+# darkhttpd
 ddrescue
 dhclient
 dhcpcd
@@ -42,15 +42,14 @@ irssi
 iw
 iwd
 jfsutils
-kitty-terminfo
+# kitty-terminfo
 less
 lftp
 libfido2
 libusb-compat
-linux
-linux-atm
+# linux-atm
 linux-firmware
-# pacman
+linux-zen
 livecd-sounds
 lsscsi
 lvm2
@@ -136,20 +135,6 @@ yay
 breeze-icons
 breeze-gtk
 fluent-icon-theme-git
-
-
-# gnome
-# gnome-terminal
-# gnome-software
-# gnome-control-center
-# gnome-extra
-# nautilus
-# gnome-software
-# gedit
-
-# login manager
-# gdm
-
 sddm
 bluedevil
 breeze-gtk
@@ -186,5 +171,6 @@ layan-kde-git
 kvantum
 kvantum-theme-layan-git
 konsole
-nvidia
-nvidia-utils
+python-pip
+python-pyqt5
+tk

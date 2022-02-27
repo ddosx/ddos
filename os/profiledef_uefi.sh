@@ -5,7 +5,7 @@ iso_name="ddos"
 iso_label="ddos"
 iso_publisher="ddosX"
 iso_application="ddos Live/Rescue CD"
-iso_version="V0.7X beta"
+iso_version="V0.8 installer-beta"
 install_dir="arch"
 buildmodes=('iso')
 
