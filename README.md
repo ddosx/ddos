@@ -27,6 +27,7 @@ ddos-V0.6 beta-x86_64.iso
 *5. Вот и ваш .iso образ ddOS. Ставьте на флешку или в раздел внутреннего диска и готово!*
 *(ахтунг: не ставьте полностью на весь диск, почитайте гайд по разделыванию диска под арч)*
 ## Как это выглядит:
+### gnome,V0.5
 ![login](https://user-images.githubusercontent.com/61107330/147656439-af642cd4-c505-4279-b5b5-6f101dea0d27.png)
 ![osafterlogin](https://user-images.githubusercontent.com/61107330/147656499-63ef6e9e-9fc1-408f-aecf-50d55a5405fb.png)
 ![desktop](https://user-images.githubusercontent.com/61107330/147656541-c123457f-3b72-4667-b753-a13ce6f023ac.png)
@@ -54,9 +55,9 @@ V0.6 beta - uefi только, чтобы загрузится с bios пере�
 
 V0.7 pre-release - plasma
 
-V0.8 pre-release - installer (наконец-то) (наверно)
+V0.8 pre-release - добавлен installer, он не работает
 
-V0.9 pre-release - оболочки на выбор (budgie, gnome, xfce, kubik³ и kde2 plasma)
+V0.9 pre-release - installer, наверное. Может дефолтный ``archinstall``
 
 V1.0 stable
 
