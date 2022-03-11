@@ -27,6 +27,15 @@ ddos-V0.6 beta-x86_64.iso
 *5. Вот и ваш .iso образ ddOS. Ставьте на флешку или в раздел внутреннего диска и готово!*
 *(ахтунг: не ставьте полностью на весь диск, почитайте гайд по разделыванию диска под арч)*
 ## Как это выглядит:
+### plasma,V0.8
+![Screenshot_20220311_185218](https://user-images.githubusercontent.com/61107330/157901624-d5495e3e-9489-4088-8468-55cfb351febd.png)
+![Screenshot_20220311_185317](https://user-images.githubusercontent.com/61107330/157901787-b35d4a76-34cc-4aa6-83e9-c591036e63ea.png)
+![Screenshot_20220311_190123](https://user-images.githubusercontent.com/61107330/157903259-0d7c03e2-941f-4f9b-bbb4-a38ef99ee548.png)
+![Screenshot_20220311_190331](https://user-images.githubusercontent.com/61107330/157903621-3253e2ab-beee-48d1-a03e-e71a6bb8201c.png)
+![Screenshot_20220311_190443](https://user-images.githubusercontent.com/61107330/157903869-82c53238-a0c1-4035-9192-517a54a1783d.png)
+![Screenshot_20220311_190900](https://user-images.githubusercontent.com/61107330/157904603-b23aca67-3189-4a5f-a38a-2c67695e3848.png)
+![Screenshot_20220311_191306](https://user-images.githubusercontent.com/61107330/157905309-9be30b9e-a6d2-4839-aec4-a4cc7ad78ed5.png)
+![Screenshot_20220311_193551](https://user-images.githubusercontent.com/61107330/157909058-8fd49c81-324a-4114-8f0d-add8efb54e93.png)
 ### gnome,V0.5
 ![login](https://user-images.githubusercontent.com/61107330/147656439-af642cd4-c505-4279-b5b5-6f101dea0d27.png)
 ![osafterlogin](https://user-images.githubusercontent.com/61107330/147656499-63ef6e9e-9fc1-408f-aecf-50d55a5405fb.png)
