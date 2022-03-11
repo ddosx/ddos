@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=python /etc/ddos/installer/installer.py
+GenericName=Инсталлер системы ddOS X
+Icon=system-os-installer
+Name=Инсталлер
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
