@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=ddos
+Description=ddOS theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/ddos
+ScriptFile=/usr/share/plymouth/themes/ddos/theme.script

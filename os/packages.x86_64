@@ -33,7 +33,7 @@ gnu-netcat
 gpart
 gpm
 gptfdisk
-grml-zsh-config
+# grml-zsh-config
 hdparm
 intel-ucode
 ipw2100-fw
@@ -64,7 +64,6 @@ mkinitcpio-archiso
 mkinitcpio-nfs-utils
 modemmanager
 mtools
-nano
 nbd
 ndisc6
 nfs-utils
@@ -106,7 +105,6 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
-vim
 virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
@@ -160,6 +158,7 @@ plasma-pa
 plasma-systemmonitor
 plasma-thunderbolt
 plasma-vault
+plasma-wayland-session
 # plasma-workspace-wallpapers
 powerdevil
 sddm-kcm
@@ -177,7 +176,11 @@ python-pyqt5
 tk
 archinstall
 spice-vdagent
-
+micro
+plymouth
+plymouth-theme-colorful-loop-git
+zramswap
+zsh-completions
 
 # autoadd
 

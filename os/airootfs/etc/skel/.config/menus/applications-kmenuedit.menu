@@ -1,0 +1,107 @@
+<!DOCTYPE Menu PUBLIC '-//freedesktop//DTD Menu 1.0//EN' 'http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd'>
+<Menu>
+ <Menu>
+  <Name>Internet</Name>
+  <Layout>
+   <Merge type="menus"/>
+   <Menuname>Terminal</Menuname>
+   <Merge type="files"/>
+   <Filename>firefox.desktop</Filename>
+   <Separator/>
+   <Menuname>More</Menuname>
+  </Layout>
+  <Exclude>
+   <Filename>bssh.desktop</Filename>
+   <Filename>bvnc.desktop</Filename>
+   <Filename>lftp.desktop</Filename>
+  </Exclude>
+ </Menu>
+ <Menu>
+  <Name>Multimedia</Name>
+  <Layout>
+   <Separator/>
+   <Merge type="menus"/>
+   <Menuname>More</Menuname>
+  </Layout>
+  <Exclude>
+   <Filename>qv4l2.desktop</Filename>
+   <Filename>qvidcap.desktop</Filename>
+  </Exclude>
+ </Menu>
+ <Menu>
+  <Name>Development</Name>
+  <Layout>
+   <Merge type="menus"/>
+   <Menuname>Web Development</Menuname>
+   <Menuname>Translation</Menuname>
+   <Merge type="files"/>
+   <Filename>org.kde.kate.desktop</Filename>
+  </Layout>
+  <Exclude>
+   <Filename>assistant.desktop</Filename>
+   <Filename>designer.desktop</Filename>
+   <Filename>linguist.desktop</Filename>
+   <Filename>qdbusviewer.desktop</Filename>
+   <Filename>org.kde.kuserfeedback-console.desktop</Filename>
+   <Filename>micro.desktop</Filename>
+  </Exclude>
+ </Menu>
+ <Menu>
+  <Name>System</Name>
+  <Layout>
+   <Merge type="menus"/>
+   <Menuname>ScreenSavers</Menuname>
+   <Menuname>Terminal</Menuname>
+   <Merge type="files"/>
+   <Filename>org.kde.dolphin.desktop</Filename>
+   <Filename>org.kde.konsole.desktop</Filename>
+   <Filename>org.kde.kinfocenter.desktop</Filename>
+   <Filename>org.kde.plasma-systemmonitor.desktop</Filename>
+   <Separator/>
+   <Menuname>More</Menuname>
+  </Layout>
+  <Exclude>
+   <Filename>avahi-discover.desktop</Filename>
+  </Exclude>
+ </Menu>
+ <Menu>
+  <Name>Utilities</Name>
+  <Layout>
+   <Merge type="menus"/>
+   <Menuname>XUtilities</Menuname>
+   <Merge type="files"/>
+   <Filename>org.kde.ark.desktop</Filename>
+   <Filename>org.kde.kate.desktop</Filename>
+   <Filename>org.kde.latte-dock.desktop</Filename>
+   <Filename>vim.desktop</Filename>
+   <Filename>kvantummanager.desktop</Filename>
+   <Filename>org.kde.plasma.emojier.desktop</Filename>
+   <Separator/>
+   <Menuname>More</Menuname>
+  </Layout>
+  <Exclude>
+   <Filename>stoken-gui.desktop</Filename>
+   <Filename>stoken-gui-small.desktop</Filename>
+   <Filename>micro.desktop</Filename>
+  </Exclude>
+ </Menu>
+ <Menu>
+  <Name>.hidden</Name>
+  <Include>
+   <Filename>bssh.desktop</Filename>
+   <Filename>bvnc.desktop</Filename>
+   <Filename>lftp.desktop</Filename>
+   <Filename>qv4l2.desktop</Filename>
+   <Filename>qvidcap.desktop</Filename>
+   <Filename>assistant.desktop</Filename>
+   <Filename>designer.desktop</Filename>
+   <Filename>linguist.desktop</Filename>
+   <Filename>qdbusviewer.desktop</Filename>
+   <Filename>org.kde.kuserfeedback-console.desktop</Filename>
+   <Filename>avahi-discover.desktop</Filename>
+   <Filename>stoken-gui.desktop</Filename>
+   <Filename>stoken-gui-small.desktop</Filename>
+   <Filename>micro.desktop</Filename>
+  </Include>
+ </Menu>
+</Menu>

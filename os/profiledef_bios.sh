@@ -5,7 +5,7 @@ iso_name="ddos"
 iso_label="ddos"
 iso_publisher="ddosX"
 iso_application="ddos Live/Rescue CD"
-iso_version="V0.9 pre-release"
+iso_version="V1 stable"
 install_dir="arch"
 buildmodes=('iso')
 
@@ -36,4 +36,6 @@ file_permissions=(
   ["/etc/ddos_conf/icon_pack.sh"]="0:0:777"
   ["/etc/ddos_conf/wallpaper.sh"]="0:0:777"
   ["/etc/ddos_conf/window_keys.sh"]="0:0:777"
+  ["/usr/bin/more_walls"]="0:0:777"
+  ["/usr/bin/ddpkg"]="0:0:777"
 )
