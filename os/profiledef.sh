@@ -18,11 +18,11 @@ buildmodes=('iso')
 # bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito')
 
 # uefi (systemd)
-# bootmodes=('uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
+bootmodes=('uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
 
-# uefi (grub)
-bootmodes=('uefi-ia32.grub.esp' 'uefi-x64.grub.esp'
-           'uefi-ia32.grub.eltorito' 'uefi-x64.grub.eltorito')
+# uefi (grub) (not work, fixing)
+# bootmodes=('uefi-ia32.grub.esp' 'uefi-x64.grub.esp'
+#            'uefi-ia32.grub.eltorito' 'uefi-x64.grub.eltorito')
            
 arch="x86_64"
 pacman_conf="pacman.conf"
