@@ -1,3 +1,4 @@
 mkdir ~/tmp
-sudo mkarchiso  -v -w ~/tmp -o ./release ./os
-sudo rm -R ~/tmp
+chmod +x mkarchiso
+sudo ./mkarchiso  -v -w ~/tmp -o ./release ./os
+sudo rm -Rfv ~/tmp
