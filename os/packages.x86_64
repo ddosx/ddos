@@ -1,7 +1,7 @@
 alsa-utils
 amd-ucode
 arch-install-scripts
-# archinstall
+archinstall
 b43-fwcutter
 base
 bind-tools
@@ -181,7 +181,8 @@ plymouth
 plymouth-theme-colorful-loop-git
 zramswap
 zsh-completions
-
+latte-dock
+refind
 # autoadd
 
 
