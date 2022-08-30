@@ -1,0 +1,303 @@
+[ActivityManager]
+_k_friendly_name=Диспетчер комнат
+switch-to-activity-1ccbf624-01c8-4b0f-a29d-120fc703dbcc=none,none,Переключиться на комнату «Начальная комната»
+
+[KDE Keyboard Layout Switcher]
+Switch keyboard layout to Английская (США)=none,none,Сменить раскладку клавиатуры на Английская (США)
+Switch keyboard layout to Русская=none,none,Сменить раскладку клавиатуры на Русская
+Switch to Next Keyboard Layout=Meta+Alt+K,none,Выбрать следующую раскладку клавиатуры
+_k_friendly_name=Переключение раскладки клавиатуры
+
+[kaccess]
+Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Включить/выключить зачитывание с экрана
+_k_friendly_name=Специальные возможности
+
+[kcm_touchpad]
+Disable Touchpad=Touchpad Off,Touchpad Off,Выключить сенсорную панель
+Enable Touchpad=Touchpad On,Touchpad On,Включить сенсорную панель
+Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,Включить или выключить сенсорную панель
+_k_friendly_name=Сенсорная панель
+
+[kded5]
+Show System Activity=Ctrl+Esc,Ctrl+Esc,Показать активность системы
+_k_friendly_name=KDE Daemon
+display=Display\tMeta+P,Display\tMeta+P,Сменить экран
+
+[khotkeys]
+_k_friendly_name=Служба пользовательских комбинаций клавиш
+{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Поиск
+
+[kmix]
+_k_friendly_name=Громкость
+decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Уменьшить громкость микрофона
+decrease_volume=Volume Down,Volume Down,Уменьшить громкость
+increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,Увеличить громкость микрофона
+increase_volume=Volume Up,Volume Up,Увеличить громкость
+mic_mute=Microphone Mute\tMeta+Volume Mute,Microphone Mute\tMeta+Volume Mute,Выключить микрофон
+mute=Volume Mute,Volume Mute,Выключить звук
+
+[ksmserver]
+Halt Without Confirmation=,,Выключить компьютер без подтверждения
+Lock Session=Meta+L\tScreensaver,Meta+L\tScreensaver,Заблокировать сеанс
+Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Завершить сеанс
+Log Out Without Confirmation=,,Завершить сеанс без подтверждения
+Reboot Without Confirmation=,,Перезагрузить компьютер без подтверждения
+_k_friendly_name=ksmserver
+
+[kwin]
+Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,Активировать окно\\, требующее внимания
+Decrease Opacity=,,Уменьшить непрозрачность окна на 5%
+Expose=Ctrl+F9,Ctrl+F9,Показать все окна с текущего рабочего стола
+ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),Показать все окна со всех рабочих столов
+ExposeClass=Ctrl+F7,Ctrl+F7,Показать окна одного класса
+Increase Opacity=,,Увеличить непрозрачность окна на 5%
+Invert Screen Colors=,,Инвертировать цвета экрана
+Kill Window=Meta+Ctrl+Esc,Meta+Ctrl+Esc,Принудительно закрыть окно
+MoveMouseToCenter=Meta+F6,Meta+F6,Переместить мышь в центр
+MoveMouseToFocus=Meta+F5,Meta+F5,Переместить мышь в фокус ввода
+MoveZoomDown=none,none,Переместить увеличенную область вниз
+MoveZoomLeft=none,none,Переместить увеличенную область влево
+MoveZoomRight=none,none,Переместить увеличенную область вправо
+MoveZoomUp=none,none,Переместить увеличенную область вверх
+Overview=Meta+W,Meta+W,Включить или отключить режим обзора
+Setup Window Shortcut=,,Задать комбинацию клавиш для переключения в это окно
+Show Desktop=Meta+D,Meta+D,Показать рабочий стол
+ShowDesktopGrid=Meta+F8,Meta+F8,Показать все рабочие столы
+Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,Приостановить композитное расширение
+Switch One Desktop Down=,Meta+Ctrl+Down,Переключиться на один рабочий стол вниз
+Switch One Desktop Up=,Meta+Ctrl+Up,Переключиться на один рабочий стол вверх
+Switch One Desktop to the Left=,Meta+Ctrl+Left,Переключиться на один рабочий стол влево
+Switch One Desktop to the Right=,Meta+Ctrl+Right,Переключиться на один рабочий стол вправо
+Switch Window Down=Meta+Alt+Down,Meta+Alt+Down,Переключиться на окно снизу
+Switch Window Left=Meta+Alt+Left,Meta+Alt+Left,Переключиться на окно слева
+Switch Window Right=Meta+Alt+Right,Meta+Alt+Right,Переключиться на окно справа
+Switch Window Up=Meta+Alt+Up,Meta+Alt+Up,Переключиться на окно сверху
+Switch to Desktop 1=Ctrl+F1,Ctrl+F1,Переключиться на рабочий стол 1
+Switch to Desktop 10=,,Переключиться на рабочий стол 10
+Switch to Desktop 11=,,Переключиться на рабочий стол 11
+Switch to Desktop 12=,,Переключиться на рабочий стол 12
+Switch to Desktop 13=,,Переключиться на рабочий стол 13
+Switch to Desktop 14=,,Переключиться на рабочий стол 14
+Switch to Desktop 15=,,Переключиться на рабочий стол 15
+Switch to Desktop 16=,,Переключиться на рабочий стол 16
+Switch to Desktop 17=,,Переключиться на рабочий стол 17
+Switch to Desktop 18=,,Переключиться на рабочий стол 18
+Switch to Desktop 19=,,Переключиться на рабочий стол 19
+Switch to Desktop 2=Ctrl+F2,Ctrl+F2,Переключиться на рабочий стол 2
+Switch to Desktop 20=,,Переключиться на рабочий стол 20
+Switch to Desktop 3=Ctrl+F3,Ctrl+F3,Переключиться на рабочий стол 3
+Switch to Desktop 4=Ctrl+F4,Ctrl+F4,Переключиться на рабочий стол 4
+Switch to Desktop 5=,,Переключиться на рабочий стол 5
+Switch to Desktop 6=,,Переключиться на рабочий стол 6
+Switch to Desktop 7=,,Переключиться на рабочий стол 7
+Switch to Desktop 8=,,Переключиться на рабочий стол 8
+Switch to Desktop 9=,,Переключиться на рабочий стол 9
+Switch to Next Desktop=,,Переключиться на следующий рабочий стол
+Switch to Next Screen=,,Переключиться на следующий экран
+Switch to Previous Desktop=,,Переключиться на предыдущий рабочий стол
+Switch to Previous Screen=,,Переключиться на предыдущий экран
+Switch to Screen 0=,,Переключиться на экран 0
+Switch to Screen 1=,,Переключиться на экран 1
+Switch to Screen 2=,,Переключиться на экран 2
+Switch to Screen 3=,,Переключиться на экран 3
+Switch to Screen 4=,,Переключиться на экран 4
+Switch to Screen 5=,,Переключиться на экран 5
+Switch to Screen 6=,,Переключиться на экран 6
+Switch to Screen 7=,,Переключиться на экран 7
+Toggle Night Color=none,none,Включить или отключить ночную цветовую схему
+Toggle Window Raise/Lower=,,Переключить передний/задний план
+Walk Through Desktop List=,,По списку рабочих столов вперёд
+Walk Through Desktop List (Reverse)=,,По списку рабочих столов назад
+Walk Through Desktops=,,На один рабочий стол вперёд
+Walk Through Desktops (Reverse)=,,На один рабочий стол назад
+Walk Through Windows=Alt+Tab,Alt+Tab,На одно окно вперёд
+Walk Through Windows (Reverse)=Alt+Shift+Backtab,Alt+Shift+Backtab,На одно окно назад
+Walk Through Windows Alternative=,,На одно окно вперёд (альтернативный режим)
+Walk Through Windows Alternative (Reverse)=,,На одно окно назад (альтернативный режим)
+Walk Through Windows of Current Application=Alt+`,Alt+`,На одно окно вперёд текущего приложения
+Walk Through Windows of Current Application (Reverse)=Alt+~,Alt+~,На одно окно назад текущего приложения
+Walk Through Windows of Current Application Alternative=,,На одно окно вперёд текущего приложения (альтернативный режим)
+Walk Through Windows of Current Application Alternative (Reverse)=,,На одно окно назад текущего приложения (альтернативный режим)
+Window Above Other Windows=,,Поместить окно на передний план
+Window Below Other Windows=,,Поместить окно на задний план
+Window Close=Alt+F4,Alt+F4,Закрыть окно
+Window Fullscreen=,,Распахнуть окно на весь экран
+Window Grow Horizontal=,,Распахнуть окно по горизонтали
+Window Grow Vertical=,,Распахнуть окно по вертикали
+Window Lower=,,Опустить окно
+Window Maximize=Meta+PgUp,Meta+PgUp,Распахнуть окно
+Window Maximize Horizontal=,,Распахнуть окно по горизонтали
+Window Maximize Vertical=,,Распахнуть окно по вертикали
+Window Minimize=Meta+PgDown,Meta+PgDown,Свернуть окно
+Window Move=,,Переместить окно
+Window Move Center=,,Переместить окно в центр
+Window No Border=,,Скрыть границы окна
+Window On All Desktops=,,Поддерживать окно на всех рабочих столах
+Window One Desktop Down=Meta+Ctrl+Shift+Down,Meta+Ctrl+Shift+Down,Окно на один рабочий стол вниз
+Window One Desktop Up=Meta+Ctrl+Shift+Up,Meta+Ctrl+Shift+Up,Окно на один рабочий стол вверх
+Window One Desktop to the Left=Meta+Ctrl+Shift+Left,Meta+Ctrl+Shift+Left,Окно на один рабочий стол влево
+Window One Desktop to the Right=Meta+Ctrl+Shift+Right,Meta+Ctrl+Shift+Right,Окно на один рабочий стол вправо
+Window Operations Menu=Alt+F3,Alt+F3,Меню действий с окном
+Window Pack Down=,,Переместить окно вниз
+Window Pack Left=,,Переместить окно влево
+Window Pack Right=,,Переместить окно вправо
+Window Pack Up=,,Переместить окно вверх
+Window Quick Tile Bottom=Meta+Down,Meta+Down,Распахнуть окно на нижнюю половину экрана
+Window Quick Tile Bottom Left=,,Распахнуть окно на левую нижнюю четверть экрана
+Window Quick Tile Bottom Right=,,Распахнуть окно на правую нижнюю четверть экрана
+Window Quick Tile Left=Meta+Left,Meta+Left,Распахнуть окно на левую половину экрана
+Window Quick Tile Right=Meta+Right,Meta+Right,Распахнуть окно на правую половину экрана
+Window Quick Tile Top=Meta+Up,Meta+Up,Распахнуть окно на верхнюю половину экрана
+Window Quick Tile Top Left=,,Распахнуть окно на левую верхнюю четверть экрана
+Window Quick Tile Top Right=,,Распахнуть окно на правую верхнюю четверть экрана
+Window Raise=,,Поднять окно
+Window Resize=,,Изменить размер окна
+Window Shade=,,Свернуть окно в заголовок
+Window Shrink Horizontal=,,Сжать окно по горизонтали
+Window Shrink Vertical=,,Сжать окно по вертикали
+Window to Desktop 1=,,Переместить окно на рабочий стол 1
+Window to Desktop 10=,,Переместить окно на рабочий стол 10
+Window to Desktop 11=,,Переместить окно на рабочий стол 11
+Window to Desktop 12=,,Переместить окно на рабочий стол 12
+Window to Desktop 13=,,Переместить окно на рабочий стол 13
+Window to Desktop 14=,,Переместить окно на рабочий стол 14
+Window to Desktop 15=,,Переместить окно на рабочий стол 15
+Window to Desktop 16=,,Переместить окно на рабочий стол 16
+Window to Desktop 17=,,Переместить окно на рабочий стол 17
+Window to Desktop 18=,,Переместить окно на рабочий стол 18
+Window to Desktop 19=,,Переместить окно на рабочий стол 19
+Window to Desktop 2=,,Переместить окно на рабочий стол 2
+Window to Desktop 20=,,Переместить окно на рабочий стол 20
+Window to Desktop 3=,,Переместить окно на рабочий стол 3
+Window to Desktop 4=,,Переместить окно на рабочий стол 4
+Window to Desktop 5=,,Переместить окно на рабочий стол 5
+Window to Desktop 6=,,Переместить окно на рабочий стол 6
+Window to Desktop 7=,,Переместить окно на рабочий стол 7
+Window to Desktop 8=,,Переместить окно на рабочий стол 8
+Window to Desktop 9=,,Переместить окно на рабочий стол 9
+Window to Next Desktop=,,Переместить окно на следующий рабочий стол
+Window to Next Screen=Meta+Shift+Right,Meta+Shift+Right,Переместить окно на следующий экран
+Window to Previous Desktop=,,Переместить окно на предыдущий рабочий стол
+Window to Previous Screen=Meta+Shift+Left,Meta+Shift+Left,Переместить окно на предыдущий экран
+Window to Screen 0=,,Переместить окно на экран 0
+Window to Screen 1=,,Переместить окно на экран 1
+Window to Screen 2=,,Переместить окно на экран 2
+Window to Screen 3=,,Переместить окно на экран 3
+Window to Screen 4=,,Переместить окно на экран 4
+Window to Screen 5=,,Переместить окно на экран 5
+Window to Screen 6=,,Переместить окно на экран 6
+Window to Screen 7=,,Переместить окно на экран 7
+_k_friendly_name=KWin
+view_actual_size=,Meta+0,Фактический размер
+view_zoom_in=Meta+=,Meta+=,Увеличить
+view_zoom_out=Meta+-,Meta+-,Уменьшить
+
+[lattedock]
+_k_friendly_name=Latte Dock
+activate entry 1=,Meta+1,Активировать объект 1
+activate entry 10=,Meta+0,Активировать объект 10
+activate entry 11=Meta+Z,Meta+Z,Активировать объект 11
+activate entry 12=Meta+X,Meta+X,Активировать объект 12
+activate entry 13=Meta+C,Meta+C,Активировать объект 13
+activate entry 14=,Meta+V,Активировать объект 14
+activate entry 15=Meta+B,Meta+B,Активировать объект 15
+activate entry 16=Meta+N,Meta+N,Активировать объект 16
+activate entry 17=Meta+M,Meta+M,Активировать объект 17
+activate entry 18=Meta+\\,,Meta+\\,,Активировать объект 18
+activate entry 19=,Meta+.,Активировать объект 19
+activate entry 2=,Meta+2,Активировать объект 2
+activate entry 3=,Meta+3,Активировать объект 3
+activate entry 4=,Meta+4,Активировать объект 4
+activate entry 5=,Meta+5,Активировать объект 5
+activate entry 6=,Meta+6,Активировать объект 6
+activate entry 7=,Meta+7,Активировать объект 7
+activate entry 8=,Meta+8,Активировать объект 8
+activate entry 9=,Meta+9,Активировать объект 9
+new instance for entry 1=Meta+Ctrl+1,Meta+Ctrl+1,Создать экземпляр объекта 1
+new instance for entry 10=Meta+Ctrl+0,Meta+Ctrl+0,Создать экземпляр объекта 10
+new instance for entry 11=Meta+Ctrl+Z,Meta+Ctrl+Z,Создать экземпляр объекта 11
+new instance for entry 12=,Meta+Ctrl+X,Создать экземпляр объекта 12
+new instance for entry 13=Meta+Ctrl+C,Meta+Ctrl+C,Создать экземпляр объекта 13
+new instance for entry 14=Meta+Ctrl+V,Meta+Ctrl+V,Создать экземпляр объекта 14
+new instance for entry 15=Meta+Ctrl+B,Meta+Ctrl+B,Создать экземпляр объекта 15
+new instance for entry 16=Meta+Ctrl+N,Meta+Ctrl+N,Создать экземпляр объекта 16
+new instance for entry 17=Meta+Ctrl+M,Meta+Ctrl+M,Создать экземпляр объекта 17
+new instance for entry 18=Meta+Ctrl+\\,,Meta+Ctrl+\\,,Создать экземпляр объекта 18
+new instance for entry 19=Meta+Ctrl+.,Meta+Ctrl+.,Создать экземпляр объекта 19
+new instance for entry 2=Meta+Ctrl+2,Meta+Ctrl+2,Создать экземпляр объекта 2
+new instance for entry 3=Meta+Ctrl+3,Meta+Ctrl+3,Создать экземпляр объекта 3
+new instance for entry 4=Meta+Ctrl+4,Meta+Ctrl+4,Создать экземпляр объекта 4
+new instance for entry 5=Meta+Ctrl+5,Meta+Ctrl+5,Создать экземпляр объекта 5
+new instance for entry 6=Meta+Ctrl+6,Meta+Ctrl+6,Создать экземпляр объекта 6
+new instance for entry 7=Meta+Ctrl+7,Meta+Ctrl+7,Создать экземпляр объекта 7
+new instance for entry 8=Meta+Ctrl+8,Meta+Ctrl+8,Создать экземпляр объекта 8
+new instance for entry 9=Meta+Ctrl+9,Meta+Ctrl+9,Создать экземпляр объекта 9
+show latte global settings=,Meta+W,Открыть глобальные настройки Latte
+show latte view=Meta+`,Meta+`,Открыть панель Latte
+show view settings=Meta+A,Meta+A,Cycle Through Dock/Panel Settings Windows
+
+[org.kde.dolphin.desktop]
+_k_friendly_name=Dolphin
+_launch=Meta+E,Meta+E,Dolphin
+
+[org.kde.krunner.desktop]
+RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Запустить команду из буфера обмена
+_k_friendly_name=Открыть строку поиска и запуска KRunner
+_launch=Alt+Space\tAlt+F2\tSearch,Alt+Space\tAlt+F2\tSearch,Открыть строку поиска и запуска KRunner
+
+[org.kde.plasma.emojier.desktop]
+_k_friendly_name=Панель выбора эмодзи
+_launch=Meta+.,Meta+.,Панель выбора эмодзи
+
+[org_kde_powerdevil]
+Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Уменьшить яркость подсветки клавиатуры
+Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,Уменьшить яркость экрана
+Hibernate=Hibernate,Hibernate,Перейти в спящий режим
+Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,Увеличить яркость подсветки клавиатуры
+Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,Увеличить яркость экрана
+PowerDown=Power Down,Power Down,Отключить питание
+PowerOff=Power Off,Power Off,Выключить
+Sleep=Sleep,Sleep,Перейти в ждущий режим
+Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Сменить состояние подсветки клавиатуры
+Turn Off Screen=none,none,Выключить монитор
+_k_friendly_name=Управление питанием
+
+[plasmashell]
+_k_friendly_name=Plasma
+activate task manager entry 1=Meta+1,Meta+1,Открыть 1-ю кнопку на панели задач
+activate task manager entry 10=Meta+0,Meta+0,Открыть 10-ю кнопку на панели задач
+activate task manager entry 2=Meta+2,Meta+2,Открыть 2-ю кнопку на панели задач
+activate task manager entry 3=Meta+3,Meta+3,Открыть 3-ю кнопку на панели задач
+activate task manager entry 4=Meta+4,Meta+4,Открыть 4-ю кнопку на панели задач
+activate task manager entry 5=Meta+5,Meta+5,Открыть 5-ю кнопку на панели задач
+activate task manager entry 6=Meta+6,Meta+6,Открыть 6-ю кнопку на панели задач
+activate task manager entry 7=Meta+7,Meta+7,Открыть 7-ю кнопку на панели задач
+activate task manager entry 8=Meta+8,Meta+8,Открыть 8-ю кнопку на панели задач
+activate task manager entry 9=Meta+9,Meta+9,Открыть 9-ю кнопку на панели задач
+activate widget 3=Alt+F1,none,Сделать виджет «Меню запуска приложений» активным
+clear-history=,,Clear Clipboard History
+clipboard_action=Meta+Ctrl+X,Meta+Ctrl+X,Automatic Action Popup Menu
+cycle-panels=Meta+Alt+P,Meta+Alt+P,Перемещение фокуса ввода с клавиатуры между панелями
+cycleNextAction=,,Next History Item
+cyclePrevAction=,,Previous History Item
+edit_clipboard=,,Edit Contents…
+manage activities=Meta+Q,Meta+Q,Показать переключатель комнат
+next activity=Meta+Tab,none,На одну комнату вперёд
+previous activity=Meta+Shift+Tab,none,На одну комнату назад
+repeat_action=Meta+Ctrl+R,Meta+Ctrl+R,Manually Invoke Action on Current Clipboard
+show dashboard=Ctrl+F12,Ctrl+F12,Показать рабочий стол
+show-barcode=,,Show Barcode…
+show-on-mouse-pos=Meta+V,Meta+V,Open Klipper at Mouse Position
+stop current activity=Meta+S,Meta+S,Прекратить выполнение текущей комнаты
+switch to next activity=,,Переключиться в следующую комнату
+switch to previous activity=,,Переключиться в предыдущую комнату
+toggle do not disturb=,,Включение и отключение режима «Не беспокоить»
+
+[systemsettings.desktop]
+_k_friendly_name=Параметры системы
+_launch=Tools,Tools,Параметры системы
+kcm-kscreen=none,none,Настройка экранов
+kcm-lookandfeel=none,none,Оформление рабочей среды
+kcm-users=none,none,Пользователи
+powerdevilprofilesconfig=none,none,Энергосбережение
+screenlocker=none,none,Блокировка экрана

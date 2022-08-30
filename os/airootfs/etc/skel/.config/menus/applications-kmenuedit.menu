@@ -48,11 +48,17 @@
  </Menu>
  <Menu>
   <Name>System</Name>
+  <Exclude>
+   <Filename>avahi-discover.desktop</Filename>
+   <Filename>org.kde.drkonqi.coredump.gui.desktop</Filename>
+   <Filename>lstopo.desktop</Filename>
+  </Exclude>
   <Layout>
    <Merge type="menus"/>
    <Menuname>ScreenSavers</Menuname>
    <Menuname>Terminal</Menuname>
    <Merge type="files"/>
+   <Filename>org.kde.kmenuedit.desktop</Filename>
    <Filename>org.kde.dolphin.desktop</Filename>
    <Filename>org.kde.konsole.desktop</Filename>
    <Filename>org.kde.kinfocenter.desktop</Filename>
@@ -60,9 +66,6 @@
    <Separator/>
    <Menuname>More</Menuname>
   </Layout>
-  <Exclude>
-   <Filename>avahi-discover.desktop</Filename>
-  </Exclude>
  </Menu>
  <Menu>
   <Name>Utilities</Name>
@@ -102,6 +105,8 @@
    <Filename>stoken-gui.desktop</Filename>
    <Filename>stoken-gui-small.desktop</Filename>
    <Filename>micro.desktop</Filename>
+   <Filename>org.kde.drkonqi.coredump.gui.desktop</Filename>
+   <Filename>lstopo.desktop</Filename>
   </Include>
  </Menu>
 </Menu>

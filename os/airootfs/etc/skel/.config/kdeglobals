@@ -136,11 +136,13 @@ ForegroundPositive=0,110,40
 ForegroundVisited=224,64,251
 
 [General]
-ColorScheme=Layan
-ColorSchemeHash=0d48a65f7ec21fd6758445108cd2bcfb1ce4deb8
+ColorSchemeHash=625c32ae46f33771aca7694ab0deae5a44bbf41c
 
 [Icons]
-Theme=Fluent
+Theme=Fluent-dark
+
+[KDE]
+SingleClick=false
 
 [KFileDialog Settings]
 Allow Expansion=false

@@ -18,9 +18,15 @@ wallpaperplugin=org.kde.image
 immutability=1
 plugin=org.kde.plasma.digitalclock
 
-[Containments][2][Applets][19]
-immutability=1
-plugin=org.kde.plasma.showdesktop
+[Containments][2][Applets][18][Configuration]
+PreloadWeight=55
+
+[Containments][2][Applets][18][Configuration][Appearance]
+fontFamily=Noto Sans
+
+[Containments][2][Applets][18][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
 
 [Containments][2][Applets][22]
 immutability=1
@@ -56,22 +62,6 @@ global=Alt+F1
 immutability=1
 plugin=org.kde.plasma.pager
 
-[Containments][2][Applets][5]
-immutability=1
-plugin=org.kde.plasma.icontasks
-
-[Containments][2][Applets][5][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][2][Applets][5][Configuration][General]
-launchers=applications:systemsettings.desktop,preferred://filemanager,preferred://browser
-maxStripes=1
-
-[Containments][2][Applets][6]
-immutability=1
-plugin=org.kde.plasma.marginsseparator
-
 [Containments][2][Applets][7]
 immutability=1
 plugin=org.kde.plasma.systemtray
@@ -82,15 +72,15 @@ SystrayContainmentId=8
 
 [Containments][2][ConfigDialog]
 DialogHeight=88
-DialogWidth=1440
+DialogWidth=1920
 
 [Containments][2][General]
-AppletOrder=3;4;23;5;22;6;7;18;19
+AppletOrder=3;4;23;18;22;7
 
-[Containments][24]
-ItemGeometries-1440x827=
+[Containments][25]
+ItemGeometries-1920x1080=
 ItemGeometriesHorizontal=
-activityId=971e8b05-1a8c-4702-a6ac-50fb73537816
+activityId=1ccbf624-01c8-4b0f-a29d-120fc703dbcc
 formfactor=0
 immutability=1
 lastScreen=0
@@ -98,12 +88,17 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
-[Containments][24][ConfigDialog]
+[Containments][25][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
-[Containments][24][Wallpaper][org.kde.image][General]
-Image=/usr/share/backgrounds/ddos/ddos_wall6.jpg
+[Containments][25][General]
+ToolBoxButtonState=topcenter
+ToolBoxButtonX=491
+ToolBoxButtonY=60
+
+[Containments][25][Wallpaper][org.kde.image][General]
+Image=/usr/share/backgrounds/ddos/ddos_1.jpg
 SlidePaths=/home/ddos/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][8]
@@ -168,3 +163,4 @@ knownItems=org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipbo
 
 [ScreenMapping]
 itemsOnDisabledScreens=
+screenMapping=desktop:/.config/ktimezonedrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/pulse/c43cd2c965224077b4f3839e61b9c81b-card-database.tdb,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kxkbrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/ksmserverrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/plasma-localerc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/menus,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/pulse/c43cd2c965224077b4f3839e61b9c81b-default-source,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kdedefaults/package,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/pulse/c43cd2c965224077b4f3839e61b9c81b-stream-volumes.tdb,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/Kvantum,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/pulse/c43cd2c965224077b4f3839e61b9c81b-device-volumes.tdb,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kde.org/UserFeedback.org.kde.plasmashell.conf,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kglobalshortcutsrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kdedefaults/plasmarc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/libaccounts-glib/accounts.db,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/systemsettingsrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/gtk-3.0/settings.ini,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kdedefaults/kcminputrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/latte/.multiple-layouts_hidden.layout.latte,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/baloofilerc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kactivitymanagerd-statsrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/plasmarc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/menus/applications-kmenuedit.menu,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/gtk-4.0,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/latte,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/gtk-3.0/gtk.css,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/khotkeysrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/lattedockrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kde.org,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/plasma-org.kde.plasma.desktop-appletsrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/gtk-4.0/settings.ini,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kded5rc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kdedefaults/ksplashrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kdedefaults/kwinrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/autostart,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/old-autostart-scripts,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/gtk-3.0,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/dconf/user,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/session/dolphin_dolphin_dolphin,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/plasmashellrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/gtk-3.0/colors.css,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kde.org/UserFeedback.org.kde.dolphin.conf,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/latte/templates,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kcminputrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/gtkrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kconf_updaterc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/latte/Default.layout.latte,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/pulse/cookie,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/Trolltech.conf,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/user-dirs.dirs,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/KDE,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/pulse,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/old-autostart-scripts/AutoStart.desktop,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/KDE/UserFeedback.conf,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kfontinstuirc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kactivitymanagerdrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kde.org/UserFeedback.org.kde.systemsettings.conf,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/xsettingsd/xsettingsd.conf,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/user-dirs.locale,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kwinrulesrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kwinrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kmixrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/session,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/autostart/AutoStart.desktop.desktop,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/dolphinrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/libaccounts-glib,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kdeglobals,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kdedefaults,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kdedefaults/kscreenlockerrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/libaccounts-glib/accounts.db-shm,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/libaccounts-glib/accounts.db-wal,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kgammarc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/autostart/AutoStart.desktop,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/drkonqirc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/fontconfig,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/kdedefaults/kdeglobals,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/xsettingsd,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/pulse/c43cd2c965224077b4f3839e61b9c81b-default-sink,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/autostart/org.kde.latte-dock.desktop,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/dconf,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/powermanagementprofilesrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/powerdevilrc,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/knfsshare,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/gtkrc-2.0,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc,desktop:/.config/Kvantum/kvantum.kvconfig,0,1ccbf624-01c8-4b0f-a29d-120fc703dbcc

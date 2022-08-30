@@ -1,10 +1,16 @@
 [KFileDialog Settings]
 detailViewIconSize=16
 
+[PlasmaViews][Panel 2]
+floating=1
+
 [PlasmaViews][Panel 2][Defaults]
 thickness=44
 
 [PlasmaViews][Panel 2][Horizontal1440]
+thickness=44
+
+[PlasmaViews][Panel 2][Horizontal1920]
 thickness=44
 
 [Updates]
