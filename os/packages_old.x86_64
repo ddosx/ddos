@@ -1,0 +1,193 @@
+# alsa-utils
+amd-ucode
+arch-install-scripts
+archinstall
+# b43-fwcutter
+base
+# bind-tools
+# brltty
+# broadcom-wl
+
+# clonezilla
+# cloud-init
+# crda
+# cryptsetup
+# darkhttpd
+# ddrescue
+# dhclient
+# dhcpcd
+diffutils
+# dmraid
+dnsmasq
+
+btrfs-progs
+dosfstools
+e2fsprogs
+exfatprogs
+f2fs-tools
+fatresize
+jfsutils
+
+edk2-shell
+efibootmgr
+# espeakup
+# ethtool
+
+
+fsarchiver
+gnu-netcat
+gpart
+gpm
+gptfdisk
+# grml-zsh-config
+# hdparm
+# intel-ucode
+# irssi
+# iw
+# iwd
+# kitty-terminfo
+less
+lftp
+libfido2
+libusb-compat
+# linux-atm
+linux-firmware
+linux-zen
+# livecd-sounds
+# lsscsi
+lvm2
+lynx
+# man-db
+# man-pages
+# mc
+# mdadm
+# memtest86+
+mkinitcpio
+mkinitcpio-archiso
+mkinitcpio-nfs-utils
+# modemmanager
+mtools
+# nbd
+# ndisc6
+nfs-utils
+nilfs-utils
+nmap
+ntfs-3g
+nvme-cli
+openconnect
+openssh
+openvpn
+partclone
+parted
+partimage
+pcsclite
+# ppp
+# pptpclient
+pv
+qemu-guest-agent
+reflector
+reiserfsprogs
+# rp-pppoe
+# rsync
+rxvt-unicode-terminfo
+# screen
+sdparm
+sg3_utils
+smartmontools
+sof-firmware
+squashfs-tools
+sudo
+syslinux
+systemd-resolvconf
+tcpdump
+# terminus-font
+testdisk
+# tmux
+tpm2-tss
+udftools
+usb_modeswitch
+usbmuxd
+usbutils
+virtualbox-guest-utils-nox
+vpnc
+wireless-regdb
+wireless_tools
+wpa_supplicant
+wvdial
+xfsprogs
+xl2tpd
+zsh
+base-devel
+
+# network
+networkmanager
+network-manager-applet
+
+# xorg
+xorg
+# xorg-drivers
+xf86-video-intel
+xf86-video-amdgpu
+xf86-video-vmware
+xf86-video-qxl
+mesa
+# gui
+firefox
+neofetch
+yay
+breeze-icons
+breeze-gtk
+fluent-icon-theme-git
+sddm
+bluedevil
+breeze-gtk
+drkonqi
+kde-gtk-config
+kdeplasma-addons
+kgamma5
+khotkeys
+kinfocenter
+kscreen
+ksshaskpass
+kwallet-pam
+kwayland-integration
+kwrited
+oxygen
+plasma-browser-integration
+plasma-desktop
+plasma-disks
+plasma-firewall
+plasma-nm
+plasma-pa
+plasma-systemmonitor
+plasma-thunderbolt
+plasma-vault
+plasma-wayland-session
+# plasma-workspace-wallpapers
+powerdevil
+sddm-kcm
+xdg-desktop-portal-kde
+kate
+ark
+dolphin
+sddm-kcm
+layan-kde-git
+kvantum
+kvantum-theme-layan-git
+konsole
+python-pip
+python-pyqt5
+tk
+archinstall
+spice-vdagent
+micro
+plymouth
+plymouth-theme-colorful-loop-git
+zramswap
+zsh-completions
+latte-dock
+refind
+
+ddos
+
+
