@@ -1,5 +1,4 @@
 # ddos - арч, но лучше
-<!-- a tochnee arch s temkoi -->
 ## Преимущества
 #### Скорость
 Благодаря ddkernel система работает быстро и стабильно.
@@ -64,13 +63,3 @@ V0.7 pre-release - plasma
 V0.8 pre-release - добавлен installer, он не работает
 
 V0.9 pre-release - installer, наверное. Может дефолтный ``archinstall``
-
-V1.0.A release - релиз! инсталлер пофикшен, все топ, отлично, систему можно юзать и ставить 2 системой.
-
-### Планируются...
-
-V1.0.B release - добавлены с коробки ddthemeinstaller и ultrawobblywindows (ещё не сделаны)
-
-V1.0.AA (pro) - 1.0.B с доп. прогами
-
-V1.0.SE (server edition) - 1.0.B, оптимизированная под хдд до 25 тб
